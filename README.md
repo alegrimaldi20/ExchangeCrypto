@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Crypto Exchange with React
+
+![Imagen100](https://user-images.githubusercontent.com/92336281/195950538-c1747a08-e24a-4c90-b5da-96b672c0b2e4.jpg)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
